@@ -9,7 +9,7 @@ go get github.com/quotidian-dumbass-brigade/go-checks
 
 ## How to use
 
-```
+```go
 package main
 
 import (
