@@ -115,4 +115,4 @@ This will print an error message that looks like this:
 
 ![error message](error.png "Error message")
 
-Very cool.
+Very cool, everybody loves it.
